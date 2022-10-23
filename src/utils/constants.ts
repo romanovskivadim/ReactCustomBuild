@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://crudcrud.com/api/587e2267b5ce4957b8f052ee22e01711';
